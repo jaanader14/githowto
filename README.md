@@ -3,4 +3,5 @@ This is the Hello World example from the Git tutorial.
 # githowto
 Ma kasutasin githowto juhendit, et õppida kasutama git käske
 Kasutasin lehekülge [githowto](https://githowto.com/more_setup)
-## git käsud
+## Mida õppisin
+- [ ] git käske
