@@ -10,10 +10,10 @@ Kasutasin lehekülge [githowto](https://githowto.com/more_setup)
 git  commit -m "test" 
 git push
 ```
-git status näitab mis on muutunud
-git add märgib failid
-git commit salvestab muudatused
-git log näitab varasemat muudatusi
-git branch näitab olemasolevaid harusid
-git switch vahetab haru
-git merge ühendab ühe haru muudatused teisega
+* git status näitab mis on muutunud
+* git add märgib failid
+* git commit salvestab muudatused
+* git log näitab varasemat muudatusi
+* git branch näitab olemasolevaid harusid
+* git switch vahetab haru
+* git merge ühendab ühe haru muudatused teisega
